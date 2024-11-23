@@ -1,0 +1,23 @@
+.nav_bar {
+  background-color: #333; /* Sets the background color */
+  padding: 10px 20px; /* Adds 10px padding on top/bottom and 20px on left/right */
+  width: auto; /* Ensures the width adjusts to the content */
+  margin: 0 40px; /* Adds 20px margin on the left and right sides */
+  color: #fff; /* Ensures text is visible on the dark background */
+}
+
+.navbar {
+  background-color: #333; /* Sets the same color for Bootstrap navbar */
+  padding: 10px 20px; /* Adds 20px padding on left/right */
+  margin: 0 30px; /* Adds space on the left and right */
+}
+
+.nav-link {
+  padding: 0 10px; /* Adds space between links */
+  color: #fff; /* Ensures links are visible on the dark background */
+  text-decoration: none; /* Removes underline from links */
+}
+
+.nav-link:hover {
+  color: #ddd; /* Lightens the link color on hover */
+}

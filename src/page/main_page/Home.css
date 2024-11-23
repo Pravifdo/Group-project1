@@ -1,0 +1,46 @@
+
+.main_photo {
+  position: relative; /* Make the container a positioned element */
+  text-align: center; /* Center align content horizontally */
+}
+
+.main_photo img {
+  width: 1440px;
+  height: 580px; /* Maintain aspect ratio */
+}
+
+.Topic {
+  font-size: 70px;
+  font-family: 'Pacifico', cursive;
+  color: white; /* Adjust text color for better visibility */
+  position: absolute; /* Position relative to .main_photo */
+  top: 30%; /* Move text vertically to the center */
+  left: 50%; /* Move text horizontally to the center */
+  transform: translate(-50%, -50%); /* Center the text exactly */
+  
+  
+}
+.page{
+  text-align: center;
+  align-items: center;
+  font-size: 20px;
+  font-family:'Courier New', Courier, monospace;
+  color:aliceblue;
+  position: absolute;
+  top: 40%;
+  left: 20%;
+  
+}
+.button-click{
+  position: absolute;
+  top:50%;
+  left: 42%;
+  
+}
+
+.button_ML{
+  position: absolute;
+  top:50%;
+  left: 52%;
+  
+}

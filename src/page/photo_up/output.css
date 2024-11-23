@@ -1,0 +1,41 @@
+body {
+    margin: 25px;
+    padding: 20px;
+    background-color: #f4f6f3; /* Softer background color for better contrast */
+    border: 2px solid #d1d9d1; /* Subtle border color */
+    font-family: 'Arial', sans-serif; /* Modern font for better readability */
+    color: #333; /* Standardized text color for good contrast */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    border-radius: 10px; /* Rounded edges for smooth design */
+}
+
+.upload_page {
+    position: relative;
+    top: 60%; /* Adjusted to move down by 30px (from 30% to 60%) */
+    text-align: center;
+    padding: 40px; /* Updated padding for uniformity */
+    margin: auto; /* Center aligns the section */
+    max-width: 600px; /* Constrain the width for better layout */
+    background: #ffffff; /* White background for content card effect */
+    border: 1px solid #ccc; /* Light border for contrast */
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Drop shadow for depth */
+}
+
+.topic {
+    font-size: 32px;
+    text-align: center;
+    margin: 30px auto;
+    color: #2d6a4f; /* Stylish green shade for headings */
+    font-weight: bold; /* Makes the heading stand out */
+    text-transform: uppercase; /* All caps for modern design */
+}
+
+.text_up {
+    padding: 20px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #555; /* Neutral gray for text */
+    line-height: 1.8; /* Improved line spacing for readability */
+}
